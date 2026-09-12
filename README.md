@@ -1,10 +1,10 @@
 # Hangman
 A simple hangman game made in Python
 
-# Contributions?
+## Contributions?
 I do not accept pull requests on this project as it was made for educational purposes.
 
-# License
+## License
 **This project is in the public domain. Feel free to copy, modify, and redistribute this program as you please.**
 
 ```
